@@ -1,0 +1,5 @@
+streamlit
+google-generativeai
+text2image
+cv2
+googletrans
